@@ -51,7 +51,7 @@ As part of your pre-work submission, please reflect on the app and answer the fo
 
 Describe any challenges encountered while building the app.
 
-    The emulator took quite a while to load, I will solve this problem by using an old phone. Also, a set a dark theme for the app but it failed to display in the gif capture. 
+[The emulator took quite a while to load, I will solve this problem by using an old phone. Also, a set a dark theme for the app but it failed to display in the gif capture. ]
 
 ## License
 
